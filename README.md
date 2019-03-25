@@ -6,7 +6,7 @@ Cross platform ActionSheet. This component implements a custom ActionSheet  and 
 ## Effect Picture
   - 动作面板效果
   
-<a><img width="200" src="./action.png"></a>
+<a><img width="200" src="./actionSheet.png"></a>
 
 
 ## Install
