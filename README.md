@@ -1,18 +1,13 @@
 # react-native-actionsheet
 Cross platform ActionSheet. This component implements a custom ActionSheet  and provides the same way to drawing it on the defferent platforms(iOS and Android). Actually, In order to keep the best effect, it still uses the ActionSheetIOS on iOS.
 
-<table>
-  <tbody>
-    <tr>
-      <td align="center" valign="top">
-        <img width="210" src="./docs/ios-custom.png">
-      </td>
-      <td align="center" valign="top">
-        <img width="210" src="./docs/ios-native.png">
-      </td>
-    </tr>
-  </tbody>
-</table>
+# Use Case
+- 开发中常用到：比如：选择相册，选择拍照等，这个底部弹出框选择，我们称之为 action sheet动作面板  
+# Effect Picture
+  - 动作面板效果
+  
+<a><img width="200" src="./action.png"></a>
+
 
 ## Install
 
