@@ -68,10 +68,10 @@ class Demo extends React.Component {
         <Text onPress={this.showActionSheet}>Open ActionSheet</Text>
         <ActionSheet
           ref={o => this.ActionSheet = o}
-          title={<Text style={{color: '#000', fontSize: 18}}>Which one do you like?</Text>}
-          options={options}
-          cancelButtonIndex={0}
-          destructiveButtonIndex={4}
+          title={<Text style={{color: '#000', fontSize: 18}}>Which one do you like?</Text>}//最上面的标题
+          options={options}//可以选择的选项
+          cancelButtonIndex={0}//取消的位置
+          destructiveButtonIndex={4}//默认选择的选项
           onPress={(index) => { /* do something */ }}
         />
       </View>
